@@ -34,7 +34,18 @@ Se implementaron dos entidades principales con una relación bidireccional:
 ![proyecto corriendo el la vps](img/vps.png)
 
 ### Consulata en postman:
+#### Leer, GET:
+![consulta para leer](img/getpost.png)
+
+#### Crear, POST
 ![consulta en postman](img/postman.png)
+
+#### DELETE:
+![eliminacion de un producto](img/postmandel.png)
+
+#### Actualizar producto, PUT:
+![actualizar producto](img/actualizar.png)
+
 
 ## 4. URLs de las consultas 
 
